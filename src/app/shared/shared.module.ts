@@ -12,7 +12,6 @@ import { BreadcrumbsComponent } from './breadcrumbs/breadcrumbs.component';
         HeaderComponent,
         SidebarComponent,
         BreadcrumbsComponent
-
     ],
     exports: [
         NopagefoundComponent,

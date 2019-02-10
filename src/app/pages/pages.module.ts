@@ -19,7 +19,6 @@ import { PAGE_ROUTES } from './page.routes';
 
     ],
     exports: [
-        PagesComponent,
         DashboardComponent,
         Graficas1Component,
         ProgressComponent
